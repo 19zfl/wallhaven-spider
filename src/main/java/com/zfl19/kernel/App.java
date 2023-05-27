@@ -1,5 +1,6 @@
 package com.zfl19.kernel;
 
+
 /**
  * @author: 19zfl
  * @description: 启动类
@@ -8,6 +9,8 @@ package com.zfl19.kernel;
 public class App {
 
     public static void main(String[] args) {
+
+        // String website = WallhavenWebsite.WALLHAVEN_WEBSITE + WallhavenType.TYPE_LATEST + ParameterField.FIELD_PAGE + ParameterField.PAGE_NUM;
 
     }
 
