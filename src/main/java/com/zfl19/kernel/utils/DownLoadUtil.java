@@ -33,7 +33,7 @@ public class DownLoadUtil {
             UUID uuid = UUID.randomUUID();
             String uuidName = uuid.toString();
             long nowTimes = System.currentTimeMillis();
-            String fileName = uuidName + String.valueOf(nowTimes);
+            String fileName = uuidName + nowTimes;
             if (picUrl.endsWith(".png")) {
                 OutputStream outputStream = new FileOutputStream(WallhavenLoaclSite.localSite + fileName + ".png");
                 IOUtils.copy(inputStream, outputStream);
