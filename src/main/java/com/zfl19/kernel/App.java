@@ -10,7 +10,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        // String website = WallhavenWebsite.WALLHAVEN_WEBSITE + WallhavenType.TYPE_LATEST + ParameterField.FIELD_PAGE + ParameterField.PAGE_NUM;
+
 
     }
 
