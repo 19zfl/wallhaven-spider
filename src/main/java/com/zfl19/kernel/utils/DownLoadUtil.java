@@ -1,6 +1,6 @@
 package com.zfl19.kernel.utils;
 
-import com.zfl19.kernel.constants.WallhavenApi;
+import com.zfl19.kernel.constants.api.WallhavenApi;
 import com.zfl19.kernel.constants.WallhavenLoaclSite;
 import org.apache.commons.io.IOUtils;
 

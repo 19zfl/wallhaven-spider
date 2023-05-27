@@ -1,4 +1,4 @@
-package com.zfl19.kernel.constants;
+package com.zfl19.kernel.constants.api;
 
 /**
  * @author: 19zfl
